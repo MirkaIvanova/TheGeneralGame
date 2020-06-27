@@ -1,0 +1,11 @@
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/bin/Debug/netcoreapp3.1/TheGeneralGame.deps.json
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/bin/Debug/netcoreapp3.1/TheGeneralGame.runtimeconfig.json
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/bin/Debug/netcoreapp3.1/TheGeneralGame.runtimeconfig.dev.json
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/bin/Debug/netcoreapp3.1/TheGeneralGame.dll
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/bin/Debug/netcoreapp3.1/TheGeneralGame.pdb
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.AssemblyInfoInputs.cache
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.AssemblyInfo.cs
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.csproj.CoreCompileInputs.cache
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.dll
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.pdb
+/Users/miroslava/projects/TheGeneralGame/TheGeneralGame/obj/Debug/netcoreapp3.1/TheGeneralGame.genruntimeconfig.cache
